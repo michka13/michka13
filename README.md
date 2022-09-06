@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @michka13
-- 👀 I’m interested in AI for healthcare and digital health advancements 
-- 🌱 I’m currently learning about data cleaning, visualisation, analysis, and machine learning models using R and Python.
-
+Masters student at Imperial College London, working on prediction software for sepsis onset. Interested in AI for healthcare, digital health technologies, data visualisation, and deep learning. 
